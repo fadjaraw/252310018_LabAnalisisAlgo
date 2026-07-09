@@ -1,5 +1,5 @@
 #include <iostream>
-#include <fstream>      // Library untuk membaca dan menulis file
+#include <fstream>
 #include <string>
 using namespace std;
 
